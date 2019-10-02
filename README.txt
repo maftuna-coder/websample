@@ -1,0 +1,1 @@
+I tried to make same webpage as kpi.com/landing using HTML, CSS, Bootstrap
